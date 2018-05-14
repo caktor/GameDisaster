@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainAwal.unity
+    guid: 836b35da665556b49804b373c6c83b32
+  - enabled: 1
+    path: Assets/Scenes/MenuPilihan.unity
+    guid: 2d6fd985bd89ad346a3861e96fd666c0
+  - enabled: 1
+    path: Assets/Scenes/PilihSimulasi.unity
+    guid: 0344a22dfa1cf444280074b26f879ce0
+  - enabled: 1
+    path: Assets/Scenes/IntroBanjir.unity
+    guid: 42eafa236348ce847943f67a28e3be0c
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 795af6f5929f6c449a71c9f1a8b95fdf
